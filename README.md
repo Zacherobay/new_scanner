@@ -31,6 +31,5 @@ Example:
 This tool is for educational purposes only. Only run scans against hosts and networks for which you have explicit, written permission. Unauthorized network scanning is illegal.
 
 Author
-Zachary Wass
 
-EOF
+Zachary Wass
